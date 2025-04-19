@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "noorventures-12421",
+    "staging": "noorventures-12421",
+    "Production": "noorventures-12421"
+  },
+  "targets": {},
+  "etags": {}
+}

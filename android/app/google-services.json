@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632599660982",
+    "firebase_url": "https://noorventures-12421-default-rtdb.firebaseio.com",
+    "project_id": "noorventures-12421",
+    "storage_bucket": "noorventures-12421.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632599660982:android:aac6549e0ad41857d65917",
+        "android_client_info": {
+          "package_name": "com.noor.noorventures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632599660982-nd4k843beins44uie2qh2mn5hiec9cea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noor.noorventures",
+            "certificate_hash": "0faaaa073d646f8649839865965b673242499fc8"
+          }
+        },
+        {
+          "client_id": "632599660982-frpq705suc4qrg2bi49c7q369f0ruvkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyx2h4ekm_hGLCRcwh59fzcUP0Tt0Rf1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632599660982-frpq705suc4qrg2bi49c7q369f0ruvkj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632599660982-55luh29crmfp3ji88qp86mo2ig33nicd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noor.noorventures"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
