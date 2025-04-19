@@ -75,7 +75,7 @@ class _LoginPageState extends State<LoginPage> {
                     children: [
                       Center(
                         child: Image.asset(
-                          'images/logonoorventure.png',
+                          'images/NoorVlogo.jpg',
                           width: MediaQuery.of(context).size.width/1.5,
                           fit: BoxFit.cover,
                         ),
